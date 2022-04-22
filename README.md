@@ -1,4 +1,6 @@
-### Hi there 👋
+### Selamlar herkese, ben emir 👋
+
+💬Benimle iletişime geçmek için, emirbarut.com.tr/iletisim/
 
 <!--
 **febarut/febarut** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
