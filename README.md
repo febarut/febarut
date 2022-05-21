@@ -1,5 +1,7 @@
 ### Selamlar herkese, ben emir 👋
 
+https://discord.com/users/663073153827733504
+
 💬Benimle iletişime geçmek için, emirbarut.com.tr/iletisim/
 
 <!--
