@@ -1,9 +1,10 @@
-<h1 class="center">### Selamlar herkese, ben emir 👋<h1>
-
+<center> Selamlar herkese, ben emir 👋<center>
+  
+  <br></br>
 [![Discord Presence](https://lanyard.cnrad.dev/api/663073153827733504?theme=dark&borderRadius=30px)](https://discord.com/users/663073153827733504)
 
 <center>🌱 | Benimle iletişime geçmek için, emirbarut.com.tr/iletisim/</center>
-
+  
 <!--
 **febarut/febarut** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
