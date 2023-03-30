@@ -1,7 +1,7 @@
 <center> Selamlar herkese, ben emir 👋<center>
   
   <br></br>
-[![Discord Presence](https://lanyard.cnrad.dev/api/?theme=dark&borderRadius=30px)](https://discord.com/users/)
+[![Discord Presence](https://lanyard.cnrad.dev/api/983416509000974376)](https://discord.com/users/983416509000974376)
 
 <center>🌱 | Benimle iletişime geçmek için, emirbarut.com.tr/iletisim/</center>
   
