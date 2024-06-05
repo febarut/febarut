@@ -1,8 +1,10 @@
 <center> Selamlar herkese, ben emir 👋<center>
   
   <br></br>
-[![Discord Presence](https://lanyard.cnrad.dev/api/983416509000974376)](https://discord.com/users/983416509000974376)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=febarut)]
+![Discord Presence](https://lanyard.cnrad.dev/api/983416509000974376)](https://discord.com/users/983416509000974376)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=febarut)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=febarut&layout=compact)
+
 <center>🌱 | Benimle iletişime geçmek için, emirbarut.com.tr/iletisim/</center>
   
 <!--
