@@ -2,8 +2,15 @@
   
   <br></br>
 ![Discord Presence](https://lanyard.cnrad.dev/api/983416509000974376)<br>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=febarut)<br>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=febarut&layout=compact)
+
+<p align="center">
+<a href="https://github.com/febarut">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=febarut&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=febarut&layout=compact&langs_count=8&theme=algolia&include_all_commits=true&count_private=true"/>
+</a>
+</p>
+
+
 
 <center>🌱 | Benimle iletişime geçmek için, emirbarut.com.tr/iletisim/</center>
   
