@@ -1,4 +1,4 @@
-<center> Selamlar herkese, ben emir <img src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" width="35"><center>
+<p align="center">Selamlar herkese, ben emir <img src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" width="35"></p>
   
   <br></br>
 <p align="center">
