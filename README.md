@@ -2,7 +2,9 @@
   
   <br></br>
 <p align="center">
-<a href="https://github.com/febarut">(https://lanyard.cnrad.dev/api/983416509000974376)</a>
+<a href="https://github.com/febarut">
+  <img src="https://lanyard.cnrad.dev/api/983416509000974376"/>
+</a>
 </p>
 
 <p align="center">
