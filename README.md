@@ -1,4 +1,4 @@
-<center> Selamlar herkese, ben emir 👋<center>
+<center> Selamlar herkese, ben emir <img src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" width="35"><center>
   
   <br></br>
 <p align="center">
@@ -14,9 +14,6 @@
 </a>
 </p>
 
-
-
-<center>🌱 | Benimle iletişime geçmek için, emirbarut.com.tr/iletisim/</center>
   
 <!--
 **febarut/febarut** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
