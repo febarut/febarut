@@ -1,7 +1,9 @@
 <center> Selamlar herkese, ben emir 👋<center>
   
   <br></br>
-![Discord Presence]<center>(https://lanyard.cnrad.dev/api/983416509000974376)</center><br>
+<p align="center">
+<a href="https://github.com/febarut">(https://lanyard.cnrad.dev/api/983416509000974376)</a>
+</p>
 
 <p align="center">
 <a href="https://github.com/febarut">
