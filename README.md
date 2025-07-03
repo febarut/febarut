@@ -14,6 +14,11 @@
 </a>
 </p>
 
+<p align="center">
+  <a href="https://github.com/febarut">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=febarut&theme=dark&hide_total_contributions=true&hide_longest_streak=true" alt="Streak" />
+  </a>
+</p>
   
 <!--
 **febarut/febarut** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
